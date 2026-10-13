@@ -102,12 +102,12 @@ Para os outros, rode isto numa célula do Colab antes (trocando a pasta pelo pro
 
 ### Semana 1 · Juros, dívida e alocação
 
-| # | Projeto | A pergunta do reel | O número que fica | Comenta | Abrir |
-|:-:|---|---|---|:-:|:-:|
-| 01 | [**A curva inverteu**](#projeto-01) | A curva DI inverteu. Vem recessão? | começo da curva em **−26,4 bips**: o mercado precifica pouco mais de **um corte** de 25 bips até janeiro | `CURVA` | [📓](semana-01/01-curva-invertida/curva_di_inclinacao_inversao.ipynb) [📄](semana-01/01-curva-invertida/curva_di_inclinacao_inversao_nota_tecnica.pdf) |
-| 02 | [**A dívida e a urna**](#projeto-02) | Quanto a eleição muda a dívida até 2031? | a eleição explica **5%** da incerteza; os choques da economia, **89%** | `DÍVIDA` | [📓](semana-01/02-divida-e-eleicoes-2026/modelo_divida_eleicoes2026_v2.ipynb) [📄](semana-01/02-divida-e-eleicoes-2026/Eleicoes2026_Analise_Fiscal_Quantitativa_v2.pdf) |
-| 03 | [**O susto do IPCA+ 2050**](#projeto-03) | Como o título que protege da inflação cai 12,6%? | **+76 bips** na taxa viram **−12,6%** no preço: 24 anos de prazo são alavanca | `IPCA` | [📓](semana-01/03-ipca-2050/ipca_marcacao_a_mercado.ipynb) [📄](semana-01/03-ipca-2050/ipca_longo_duration_convexidade_nota_tecnica.pdf) |
-| 04 | [**Alocação macro BR**](#projeto-04) | Uma estratégia gringa funciona aqui? | **24 fatores**, **74 hipóteses** e o CDI com score próprio, porque aqui o caixa compete | `MACRO` | [📦](semana-01/04-alocacao-macro-br) [📓](semana-01/04-alocacao-macro-br/notebooks/pipeline_alocacao_macro.ipynb) |
+| # | Projeto | A pergunta do reel | O número que fica | Abrir |
+|:-:|---|---|---|:-:|
+| 01 | [**A curva inverteu**](#projeto-01) | A curva DI inverteu. Vem recessão? | começo da curva em **−26,4 bips**: o mercado precifica pouco mais de **um corte** de 25 bips até janeiro | [📓](semana-01/01-curva-invertida/curva_di_inclinacao_inversao.ipynb) [📄](semana-01/01-curva-invertida/curva_di_inclinacao_inversao_nota_tecnica.pdf) |
+| 02 | [**A dívida e a urna**](#projeto-02) | Quanto a eleição muda a dívida até 2031? | a eleição explica **5%** da incerteza; os choques da economia, **89%** | [📓](semana-01/02-divida-e-eleicoes-2026/modelo_divida_eleicoes2026_v2.ipynb) [📄](semana-01/02-divida-e-eleicoes-2026/Eleicoes2026_Analise_Fiscal_Quantitativa_v2.pdf) |
+| 03 | [**O susto do IPCA+ 2050**](#projeto-03) | Como o título que protege da inflação cai 12,6%? | **+76 bips** na taxa viram **−12,6%** no preço: 24 anos de prazo são alavanca | [📓](semana-01/03-ipca-2050/ipca_marcacao_a_mercado.ipynb) [📄](semana-01/03-ipca-2050/ipca_longo_duration_convexidade_nota_tecnica.pdf) |
+| 04 | [**Alocação macro BR**](#projeto-04) | Uma estratégia gringa funciona aqui? | **24 fatores**, **74 hipóteses** e o CDI com score próprio, porque aqui o caixa compete | [📦](semana-01/04-alocacao-macro-br) [📓](semana-01/04-alocacao-macro-br/notebooks/pipeline_alocacao_macro.ipynb) |
 
 <sub>📓 notebook · 📄 nota técnica ou relatório em PDF · 📦 pacote Python com testes</sub>
 
