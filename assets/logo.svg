@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Do Reel ao Repo">
+  <defs><clipPath id="c"><rect width="256" height="256" rx="56"/></clipPath></defs>
+  <rect width="256" height="256" rx="56" fill="#1B2A4A"/>
+  <g clip-path="url(#c)" stroke="#FFFFFF" stroke-opacity=".07" stroke-width="1.5"><path d="M32 0V256M0 32H256"/><path d="M64 0V256M0 64H256"/><path d="M96 0V256M0 96H256"/><path d="M128 0V256M0 128H256"/><path d="M160 0V256M0 160H256"/><path d="M192 0V256M0 192H256"/><path d="M224 0V256M0 224H256"/></g>
+  <path d="M96 66 L96 190 L198 128 Z" fill="#F5F6FA" stroke="#F5F6FA" stroke-width="22" stroke-linejoin="round"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="30.0,160.8 42.6,173.1 49.8,181.5 55.0,189.5 60.1,195.4 71.3,195.4 80.7,188.9 89.1,182.3 96.3,178.4 108.7,158.7 114.4,146.9 119.5,139.0 129.2,122.0 138.2,113.5 154.5,101.7 168.9,91.2 182.0,87.9 205.3,87.2 226.0,88.6" stroke="#1B2A4A" stroke-width="18"/>
+    <polyline points="60.1,195.4 71.3,195.4 80.7,188.9 89.1,182.3 96.3,178.4 108.7,158.7 114.4,146.9 119.5,139.0 129.2,122.0 138.2,113.5 154.5,101.7 168.9,91.2 182.0,87.9 205.3,87.2 226.0,88.6" stroke="#5B8DEF" stroke-width="7"/>
+    <polyline points="30.0,160.8 42.6,173.1 49.8,181.5 55.0,189.5 60.1,195.4" stroke="#E5484D" stroke-width="7"/>
+  </g>
+  <circle cx="30.0" cy="160.8" r="10" fill="#E5484D" stroke="#1B2A4A" stroke-width="5"/>
+</svg>
